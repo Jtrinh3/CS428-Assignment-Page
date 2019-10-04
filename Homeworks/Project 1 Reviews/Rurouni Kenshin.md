@@ -16,4 +16,6 @@ With the number of lamps, I feel that it was a missed opportunity to make the sc
 
 As for the backside, I have issues where the AR button is registering as being constantly pressed, especially when first opening it similarly to the presentation. The video usually auto plays as well upon reveal of the back cover. I would be using a different location for the button as I feel it might have to do with the small text being reflected or blurred by the quality of the viewing device.
 
-I do like that the video can be viewed from both sides and that the layout is like a theater around the book. If the book cover were to be designed for AR viewing, then I feel that the video issue would be solved. Overall, I feel this is a great work on the project.
+I do like that the video can be viewed from both sides and that the layout is like a theater around the book. If the book cover were to be designed for AR viewing, then I feel that the video issue would be solved.
+
+Overall, I feel this is a great work on the project. I really also like that they did a manga which really is great for AR with the amount of details the cover often provide.
