@@ -2,7 +2,7 @@
 
 ## Curious George
 
-This is a review of project 1 from other group members.
+This is a review of project 1 of other groups.
 
 <img src="https://raw.githubusercontent.com/Jtrinh3/CS428-Assignment-Page/master/Homeworks/Project%201%20Reviews/Curious%20George.png">
 
