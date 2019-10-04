@@ -2,8 +2,7 @@
 
 ## Curious George
 
-<img src="https://raw.githubusercontent.com/Jtrinh3/CS428-Assignment-Page/master/Homeworks/Project%201%20Reviews/Curious%20George.png
-" width="90%">
+<img src="https://raw.githubusercontent.com/Jtrinh3/CS428-Assignment-Page/master/Homeworks/Project%201%20Reviews/Curious%20George.png" width="90%">
 
 At first glance, I really like that simplicity of the layout of the front cover as seen in figure 4. It’s not too cluttered nor is it overwhelming. The models used and the lighting blends very well together as well on top of the book’s color. The only improvement I can really see is localizing the sounds and fixing that bird but other than that, it seems well done!
 
