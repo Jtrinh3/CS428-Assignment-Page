@@ -16,6 +16,7 @@ In the case that it is audio detection, it’d be quite interesting to see how i
     </font>
 </figure>
 
+
 Similarly to the game, such a system would need to limit the amount of sound to visualize at a single moment as well as give priority. A reasonable solution is to prioritize the loudest one, or the closest. Perhaps a more cooler solution is to turn the world into a comic book where we see every sounds like POP! and BANG!
 
 ## Closing Remark
