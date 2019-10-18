@@ -17,7 +17,7 @@ In the case that it is audio detection, it’d be quite interesting to see how i
 </figure>
 
 
-Similarly to the game, such a system would need to limit the amount of sound to visualize at a single moment as well as give priority. A reasonable solution is to prioritize the loudest one, or the closest. Perhaps a more cooler solution is to turn the world into a comic book where we see every sounds like POP! and BANG!
+Similarly to the game, such a system would need to limit the amount of sound to visualize at a single moment as well as give priority. A reasonable solution is to prioritize the loudest one, or the closest. Perhaps a more cooler solution is to turn the world into a comic book where we see every sounds like POP! and BANG! coming from the source itself augmentedly.
 
 ## Closing Remark
 My overall feel about the future, is that once we reach a certain point where it's less about getting more information, perhaps sometime, it's better to not know. A common phase often thrown around is that "less is more". Perhaps we don't need all these informations. There's only so much one's mind can handle, it becomes about figuring out what information to filter out, rather than what information we can obtain.
