@@ -11,7 +11,7 @@ In the case that it is audio detection, it’d be quite interesting to see how i
 <figure>
     <img src='https://gamepedia.cursecdn.com/minecraft_gamepedia/a/a8/Subtitles.png?version=91972d0496baf18c92fa1926558ad829' />
     <font size="2">
-    <figcaption> A snippet of *Minecraft's* audio display. Image taken from Minecraft Gamepedia <a href= "https://minecraft.gamepedia.com"</a> 
+    <figcaption> A snippet of *Minecraft's* audio display. <a href= "https://minecraft.gamepedia.com">Image taken from Minecraft Gamepedia </a> 
     </figcaption>
     </font>
 </figure>
